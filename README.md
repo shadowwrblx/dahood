@@ -1,5 +1,6 @@
 # compatibility
-this is made mainly for iku 
+this is made mainly for iku <br>
+https://discord.gg/iku
 <br>
 customizable to fit any alt control by changing commands.<br>
 # how to use
