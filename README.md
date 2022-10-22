@@ -1,4 +1,4 @@
-# dahood
+# compatibility
 this is made mainly for iku 
 <br>
 customizable to fit any alt control by changing commands.<br>
