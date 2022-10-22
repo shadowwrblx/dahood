@@ -1,5 +1,5 @@
 # dahood
-this is made mainly for compatibility with iku
+this is made mainly for iku
 customizable to fit any alt control by changing commands.
 
 # how to customize
