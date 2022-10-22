@@ -1,6 +1,6 @@
 # SCRIPT
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shadowwrblx/dahood/main/cmd.lua"))
+pcall(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/shadowwrblx/dahood/main/cmd.lua"))end)
 ```
 # compatibility
 this is made mainly for iku altcontrol
