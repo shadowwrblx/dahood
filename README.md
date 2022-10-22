@@ -11,7 +11,7 @@ i have made it open source to not get accused of logging
 ``description = "Starts dropping"`` is the description off command when you do "cmds".<br>
 if command does not have arguements put options as "false" like this: ``options = "false"``<br>
 if command has arguements add each arguements by using ```[1] = { description = "Amount to drop.", question = "Choose amount to drop: ", }```<br>
-[1] would be the first arguement [2] would be the second. for example [1] would be user to bring [2] would be location to bring user to. <br>
+[1] would be the first arguement [2] would be the second. for example [1] would be user to bring [2] would be location to bring user <br>
 would end up like /bring user location. <br>
 **question** is shown when you choose the command. **description** is shown when you do "cmds".<br>
 **DO NOT EDIT ANYTHING ELSE THAN COMMANDS TO MAKE IT NOT BREAK**<br>
