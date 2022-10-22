@@ -1,12 +1,12 @@
 # dahood
-this is made mainly for iku
-customizable to fit any alt control by changing commands.
+this is made mainly for iku\n
+customizable to fit any alt control by changing commands.\n
 
 # how to customize
-if command does not have arguements put options as "false" like this: ``options = "false"``
-if command has arguements add each arguements by using ``[1] = { description = "Amount to drop.", question = "Choose amount to drop: ", }``
-**question** is shown when you choose the command. description is shown when you do "cmds".
-**DO NOT EDIT ANYTHING ELSE THAN COMMANDS TO MAKE IT NOT BREAK**
+if command does not have arguements put options as "false" like this: ``options = "false"``\n
+if command has arguements add each arguements by using ``[1] = { description = "Amount to drop.", question = "Choose amount to drop: ", }``\n
+**question** is shown when you choose the command. description is shown when you do "cmds".\n
+**DO NOT EDIT ANYTHING ELSE THAN COMMANDS TO MAKE IT NOT BREAK**\n
 # skidding
-feel free to skid or learn by the code 
-no idea why you would skid this tho
+feel free to skid or learn by the code\n
+no idea why you would skid this tho\n
