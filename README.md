@@ -1,5 +1,5 @@
 # dahood
-this is made mainly for iku\n
+this is made mainly for iku 
 customizable to fit any alt control by changing commands.\n
 
 # how to customize
@@ -10,3 +10,6 @@ if command has arguements add each arguements by using ``[1] = { description = "
 # skidding
 feel free to skid or learn by the code\n
 no idea why you would skid this tho\n
+# contact
+contact me shadow.#8649
+if tag is invalid heres my discord id: 921848527955566743
