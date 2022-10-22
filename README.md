@@ -2,7 +2,10 @@
 this is made mainly for iku 
 <br>
 customizable to fit any alt control by changing commands.<br>
-
+# how to use
+self explainable just execute script and follow the steps<br>
+# why open source
+i have made it open source to not get accused of ip logging
 # how to customize
 if command does not have arguements put options as "false" like this: ``options = "false"``<br>
 if command has arguements add each arguements by using ```[1] = { description = "Amount to drop.", question = "Choose amount to drop: ", }```
