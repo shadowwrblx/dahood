@@ -17,7 +17,7 @@ would end up like /bring user location. <br>
 **DO NOT EDIT ANYTHING ELSE THAN COMMANDS TO MAKE IT NOT BREAK**<br>
 # skidding
 feel free to skid or learn by the code<br>
-no idea why you would skid this tho<br>
+if you skid/steal code atleast give credits thanks<br>
 # contact
 contact me shadow.#8649<br>
 if tag is invalid heres my discord id: 921848527955566743<br>
