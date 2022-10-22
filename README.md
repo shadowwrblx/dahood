@@ -1,3 +1,7 @@
+# SCRIPT
+```
+gfdgdf
+```
 # compatibility
 this is made mainly for iku altcontrol
 <br>
