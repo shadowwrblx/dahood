@@ -7,10 +7,11 @@ self explainable just execute script and follow the steps<br>
 # why open source
 i have made it open source to not get accused of logging
 # how to customize
+``name = "drop"`` is what it should say in the chat. this would make it say "drop".<br>
+``description = "Starts dropping"`` is the description off command when you do "cmds".<br>
 if command does not have arguements put options as "false" like this: ``options = "false"``<br>
-if command has arguements add each arguements by using ```[1] = { description = "Amount to drop.", question = "Choose amount to drop: ", }```
-<br>
-**question** is shown when you choose the command. description is shown when you do "cmds".<br>
+if command has arguements add each arguements by using ```[1] = { description = "Amount to drop.", question = "Choose amount to drop: ", }```<br>
+**question** is shown when you choose the command. **description** is shown when you do "cmds".<br>
 **DO NOT EDIT ANYTHING ELSE THAN COMMANDS TO MAKE IT NOT BREAK**<br>
 # skidding
 feel free to skid or learn by the code<br>
