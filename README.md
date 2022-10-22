@@ -1,6 +1,6 @@
 # SCRIPT
 ```
-gfdgdf
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shadowwrblx/dahood/main/cmd.lua"))
 ```
 # compatibility
 this is made mainly for iku altcontrol
